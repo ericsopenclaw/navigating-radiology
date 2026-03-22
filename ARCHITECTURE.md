@@ -148,10 +148,21 @@ OpenClaw 監控 Google Drive
 | 🟡 中 | OpenClaw → Claude Code 委派 Skill 開發 | ✅ 已完成（已驗證） |
 | 🟡 中 | HA 自動容錯機制實作 | 待辦 |
 
-## 七、驗證記錄
+## 七、已開發技能
+
+| 技能 | 路徑 | 狀態 |
+|------|------|------|
+| 1. Google Drive 監控 | `skills/drive-monitor/` | ✅ 完成 |
+| 2. OCR 單據處理 | `skills/ocr-receipt/` | ✅ 完成 |
+| 3. PDF 批次轉檔 | `skills/pdf-converter/` | ⏳ 待開發 |
+| 4. HA 自動容錯 | `skills/ha-failover/` | ⏳ 待開發 |
+
+## 八、驗證記錄
 
 - Claude Code 登入：`eric020730think@gmail.com`（Pro 訂閱）
 - Claude Code 委派測試：✅ 成功
+- 技能一測試：✅ 成功（偵測到 PDF）
+- 技能二測試：✅ 成功（OCR 處理，結果寫入 receipts.csv）
 
 ---
 
