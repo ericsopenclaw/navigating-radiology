@@ -154,7 +154,7 @@ OpenClaw 監控 Google Drive
 |------|------|------|
 | 1. Google Drive 監控 | `skills/drive-monitor/` | ✅ 完成 |
 | 2. OCR 單據處理 | `skills/ocr-receipt/` | ✅ 完成 |
-| 3. PDF 批次轉檔 | `skills/pdf-converter/` | ⏳ 待開發 |
+| 3. PDF 批次轉檔 | `skills/pdf-converter/` | ✅ 完成 |
 | 4. HA 自動容錯 | `skills/ha-failover/` | ⏳ 待開發 |
 
 ## 八、驗證記錄
