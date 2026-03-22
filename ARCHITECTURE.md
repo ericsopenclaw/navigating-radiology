@@ -155,7 +155,7 @@ OpenClaw 監控 Google Drive
 | 1. Google Drive 監控 | `skills/drive-monitor/` | ✅ 完成 |
 | 2. OCR 單據處理 | `skills/ocr-receipt/` | ✅ 完成 |
 | 3. PDF 批次轉檔 | `skills/pdf-converter/` | ✅ 完成 |
-| 4. HA 自動容錯 | `skills/ha-failover/` | ⏳ 待開發 |
+| 4. HA 自動容錯 | `skills/ha-failover/` | ✅ 完成 |
 
 ## 八、驗證記錄
 
@@ -163,6 +163,8 @@ OpenClaw 監控 Google Drive
 - Claude Code 委派測試：✅ 成功
 - 技能一測試：✅ 成功（偵測到 PDF）
 - 技能二測試：✅ 成功（OCR 處理，結果寫入 receipts.csv）
+- 技能三測試：✅ 完成（PDF 轉換工具已建立）
+- 技能四測試：✅ 成功（健康檢查通過，Failover 模型已設定）
 
 ---
 
