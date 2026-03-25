@@ -1,7 +1,7 @@
 # 數位助理架構藍圖
 
 _建立日期：2026-03-22_
-_最後更新：2026-03-22_
+_最後更新：2026-03-26_
 
 ---
 
@@ -152,10 +152,19 @@ OpenClaw 監控 Google Drive
 
 | 技能 | 路徑 | 狀態 |
 |------|------|------|
-| 1. Google Drive 監控 | `skills/drive-monitor/` | ✅ 完成 |
-| 2. OCR 單據處理 | `skills/ocr-receipt/` | ✅ 完成 |
-| 3. PDF 批次轉檔 | `skills/pdf-converter/` | ✅ 完成 |
-| 4. HA 自動容錯 | `skills/ha-failover/` | ✅ 完成 |
+| 1. Google Drive 監控 | `~/.openclaw/skills/drive-monitor/` | ✅ 完成 |
+| 2. PDF 批次轉檔 | `~/.openclaw/skills/pdf-converter/` | ✅ 完成 |
+| 3. HA 自動容錯 | `~/.openclaw/skills/ha-failover/` | ✅ 完成 |
+| 4. PDF 論文簡報生成 | `~/.openclaw/skills/pdf-to-pptx/` | ✅ 完成 |
+| 5. 學術深度研究 | `~/.openclaw/workspace/skills/academic-deep-research/` | ✅ 完成 |
+| 6. 醫療文檔處理 | `~/.openclaw/workspace/skills/medical-document-processor/` | ✅ 完成 |
+| 7. 天氣查詢 | `~/.openclaw/skills/weather/` | ✅ 完成 |
+| 8. GitHub 操作 | `~/.openclaw/skills/github/` | ✅ 完成 |
+| 9. 健康檢查 | `~/.openclaw/skills/healthcheck/` | ✅ 完成 |
+| 10. 翻譯 | `~/.openclaw/workspace/skills/translate/` | ✅ 完成 |
+| 11. 總結摘要 | `~/.openclaw/workspace/skills/summarize/` | ✅ 完成 |
+| 12. Obsidian 筆記 | `~/.openclaw/workspace/skills/obsidian/` | ✅ 完成 |
+| 13. Google Workspace (Gog) | `~/.openclaw/skills/gog/` | ✅ 完成 |
 
 ## 八、驗證記錄
 
@@ -165,6 +174,7 @@ OpenClaw 監控 Google Drive
 - 技能二測試：✅ 成功（OCR 處理，結果寫入 receipts.csv）
 - 技能三測試：✅ 完成（PDF 轉換工具已建立）
 - 技能四測試：✅ 成功（健康檢查通過，Failover 模型已設定）
+- 技能五測試：✅ 成功（PDF → PPTX 生成完成，58KB）
 
 ---
 

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "skills": {
+    "medical-specialty-briefs": {
+      "version": "1.0.0",
+      "installedAt": 1774320305540
+    },
+    "translate": {
+      "version": "1.0.0",
+      "installedAt": 1774320369972
+    },
+    "medical-document-processor": {
+      "version": "1.0.0",
+      "installedAt": 1774320722064
+    },
+    "academic-deep-research": {
+      "version": "1.0.0",
+      "installedAt": 1774320784530
+    },
+    "gcalcli-calendar": {
+      "version": "3.0.0",
+      "installedAt": 1774320847124
+    },
+    "session-logs": {
+      "version": "1.0.0",
+      "installedAt": 1774320909338
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1774320971278
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1774321033318
+    },
+    "xurl": {
+      "version": "1.0.0",
+      "installedAt": 1774321095253
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1774321157298
+    }
+  }
+}
